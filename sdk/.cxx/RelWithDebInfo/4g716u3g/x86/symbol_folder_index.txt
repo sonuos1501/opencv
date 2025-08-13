@@ -1,0 +1,1 @@
+/Users/mac/Documents/project/OpenCV-android-sdk/sdk/build/intermediates/cxx/RelWithDebInfo/4g716u3g/obj/x86

@@ -1,0 +1,1 @@
+/Volumes/DocsExtenal/OpenCV-android-sdk/sdk/build/intermediates/cxx/RelWithDebInfo/m537n191/obj/x86

@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/Users/mac/Documents/project/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mac/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/mac/Documents/project/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/4g716u3g/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mac/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/mac/Documents/project/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/4g716u3g/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "opencv_jni_shared",
+      "output": "/Users/mac/Documents/project/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/4g716u3g/armeabi-v7a/libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/mac/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/mac/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

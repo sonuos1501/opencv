@@ -1,0 +1,1 @@
+/Volumes/DocsExtenal/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/1r1s655u/obj/x86

@@ -1,0 +1,4 @@
+/Users/mac/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Volumes/DocsExtenal/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/m537n191/armeabi-v7a \
+  opencv_jni_shared

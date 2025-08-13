@@ -1,0 +1,3 @@
+/Volumes/DocsExtenal/OpenCV-android-sdk/sdk/.cxx/Debug/1r1s655u/x86_64/CMakeFiles/opencv_jni_shared.dir
+/Volumes/DocsExtenal/OpenCV-android-sdk/sdk/.cxx/Debug/1r1s655u/x86_64/CMakeFiles/edit_cache.dir
+/Volumes/DocsExtenal/OpenCV-android-sdk/sdk/.cxx/Debug/1r1s655u/x86_64/CMakeFiles/rebuild_cache.dir
