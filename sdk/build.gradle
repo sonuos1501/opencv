@@ -176,7 +176,7 @@ android {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'org.opencv'
+            groupId = 'com.github.sonuos1501'
             artifactId = 'opencv'
             version = '4.9.0'
 
