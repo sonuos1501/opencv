@@ -1,0 +1,3 @@
+[submodule "opencvsdk"]
+	path = opencvsdk
+	url = https://github.com/sonuos1501/sdk-android.git
